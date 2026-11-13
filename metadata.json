@@ -1,0 +1,6 @@
+{
+  "name": "Kidzee Rangia — Early Childhood Preschool",
+  "description": "Official preschool website for Kidzee Rangia in Dharampur, Assam. Offering Playgroup, Nursery, Kindergarten, Early Childhood Care, and Teacher Training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
